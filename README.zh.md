@@ -1,7 +1,7 @@
-[English](README.md) | [中文](README.zh.md)
+[English](https://github.com/chandra447/dsh-table-charts/blob/main/README.md) | [中文](https://github.com/chandra447/dsh-table-charts/blob/main/README.zh.md)
 
 <p align="center">
-  <img src="assets/icon-180.png" width="90" height="90" alt="dsh-table-charts 图标">
+  <img src="https://raw.githubusercontent.com/chandra447/dsh-table-charts/main/assets/icon-180.png" width="90" height="90" alt="dsh-table-charts 图标">
 </p>
 
 <h1 align="center">dsh-table-charts</h1>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/chart-dark.png" alt="DeepSeek Harness 中 Markdown 表格下方自动出现的条形图" width="760">
+  <img src="https://raw.githubusercontent.com/chandra447/dsh-table-charts/main/assets/chart-dark.png" alt="DeepSeek Harness 中 Markdown 表格下方自动出现的条形图" width="760">
 </p>
 
 **满屏数字的表格，只能一行一行对着看。这个插件替你把条形图画出来。**

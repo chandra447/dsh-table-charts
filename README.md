@@ -1,7 +1,7 @@
-[English](README.md) | [中文](README.zh.md)
+[English](https://github.com/chandra447/dsh-table-charts/blob/main/README.md) | [中文](https://github.com/chandra447/dsh-table-charts/blob/main/README.zh.md)
 
 <p align="center">
-  <img src="assets/icon-180.png" width="90" height="90" alt="dsh-table-charts icon">
+  <img src="https://raw.githubusercontent.com/chandra447/dsh-table-charts/main/assets/icon-180.png" width="90" height="90" alt="dsh-table-charts icon">
 </p>
 
 <h1 align="center">dsh-table-charts</h1>
@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/chart-dark.png" alt="A Markdown table in DeepSeek Harness with a bar chart drawn under it" width="760">
+  <img src="https://raw.githubusercontent.com/chandra447/dsh-table-charts/main/assets/chart-dark.png" alt="A Markdown table in DeepSeek Harness with a bar chart drawn under it" width="760">
 </p>
 
 **A table of numbers makes you compare digits row by row. This plugin draws the bars for you.**
