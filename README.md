@@ -13,10 +13,12 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandra447/dsh-table-charts/main/assets/chart-dark.png" alt="A Markdown table in DeepSeek Harness with a bar chart drawn under it" width="760">
+  <img src="https://raw.githubusercontent.com/chandra447/dsh-table-charts/main/assets/hero.gif" alt="A Markdown table in DeepSeek Harness getting a two-series bar chart under it" width="760">
 </p>
 
 **A table of numbers makes you compare digits row by row. This plugin draws the bars for you.**
+
+_A 25 fps motion piece rendered with fframes. [Watch the MP4](assets/hero.mp4) for 1080p._
 
 Your assistant answered with a table. You started reading the Revenue column one cell at a time. Now there is a bar chart under it, in your theme, and nobody called a tool.
 

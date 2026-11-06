@@ -13,10 +13,12 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/chandra447/dsh-table-charts/main/assets/chart-dark.png" alt="DeepSeek Harness 中 Markdown 表格下方自动出现的条形图" width="760">
+  <img src="https://raw.githubusercontent.com/chandra447/dsh-table-charts/main/assets/hero.gif" alt="DeepSeek Harness 中的 Markdown 表格下方自动出现双系列条形图" width="760">
 </p>
 
 **满屏数字的表格，只能一行一行对着看。这个插件替你把条形图画出来。**
+
+_25 fps 动画，由 fframes 渲染。[看 1080p MP4](assets/hero.mp4)。_
 
 助手用一张表格回答了你。你开始逐格比对 Revenue 那一列。现在表格下面多了一张条形图，配色跟着主题走，而且谁也没调用工具。
 
