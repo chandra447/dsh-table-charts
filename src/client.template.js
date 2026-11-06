@@ -281,16 +281,17 @@ window.__ModuleLoader__.load({
         }
         const next = { text, box: state ? state.box : null, timer: null }
         states.set(table, next)
-        next.timer = setTimeout(() => {
+        const handle = setTimeout(() => {
           next.timer = null
-          timers.delete(next.timer)
+          timers.delete(handle)
           if (!table.isConnected) {
             destroyChart(table)
             return
           }
           chartTable(table)
         }, SETTLE_MS)
-        timers.add(next.timer)
+        next.timer = handle
+        timers.add(handle)
       }
     }
 
