@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Table charts",
+    "description": "Draws a bar chart under Markdown tables whose columns are mostly numeric. No tool call, no server."
+  }
+}

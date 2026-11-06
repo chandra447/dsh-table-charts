@@ -1,0 +1,4 @@
+# dsh-table-charts bundle patch: one row, no host code. The Client half renders.
+- insert:
+    - id: table-charts
+      name: dsh-table-charts

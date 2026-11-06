@@ -1,0 +1,61 @@
+{
+  "name": "dsh-table-charts",
+  "version": "0.1.0",
+  "description": "Draw a bar chart under Markdown tables in DeepSeek Harness chat when columns are mostly numeric. No tool call, no server.",
+  "keywords": [
+    "dsh-plugin",
+    "deepseek-harness",
+    "deepseek",
+    "table",
+    "chart",
+    "markdown",
+    "data-visualization"
+  ],
+  "license": "MIT",
+  "author": "Chandra Doredla",
+  "type": "module",
+  "exports": {
+    ".": "./index.js",
+    "./client": "./client.js",
+    "./locale/*.json": "./locale/*.json",
+    "./icon": "./icon.svg"
+  },
+  "files": [
+    "index.js",
+    "client.js",
+    "cordis.patch.yml",
+    "locale/*.json",
+    "icon.svg",
+    "README.md",
+    "README.zh.md",
+    "LICENSE",
+    "CHANGELOG.md",
+    "build.mjs",
+    "src",
+    "assets"
+  ],
+  "scripts": {
+    "build": "node build.mjs",
+    "test": "node test/verify.mjs"
+  },
+  "engines": {
+    "node": ">=22.19.0"
+  },
+  "dsh": {
+    "bundle": {
+      "patch": "./cordis.patch.yml"
+    },
+    "client": {
+      "platform": "web",
+      "immediately": true
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandra447/dsh-table-charts.git"
+  },
+  "homepage": "https://github.com/chandra447/dsh-table-charts#readme",
+  "bugs": {
+    "url": "https://github.com/chandra447/dsh-table-charts/issues"
+  }
+}
